@@ -38,5 +38,6 @@
                  sh 'kubectl apply -f service.yml'
             }
         }
+        }
 }
 }
